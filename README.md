@@ -61,4 +61,4 @@ Proje lokal ortamınıza kurulduktan sonra aşağıdaki adımları takip edebili
     ```
 
 
- Site Adres Linki [https://esj-data-grid-36zx2vcd0-ograsyilmaz.vercel.app/](https://esj-data-grid-36zx2vcd0-ograsyilmaz.vercel.app/)
+ Site Adres Linki [https://esj-data-grid.vercel.app/](https://esj-data-grid.vercel.app/)
